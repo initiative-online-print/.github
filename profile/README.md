@@ -9,13 +9,9 @@ These standards are designed to improve interoperability, simplify data exchange
 collaboration between printers, customers and their platforms, suppliers and software providers.
 
 ## Standards developed by IOP
-
-With this GitHub organization, we provide the technical space for technical specifications developed by working groups
-of the IOP.
-
 - [EUDR-X](https://github.com/initiative-online-print/eudr-iop-standard-exchange-format) for exchanging information
   related to the EU Deforestation Regulation within the supply-chain
-- [UCP Print](https://github.com/initiative-online-print/ucp-print) for extending the Universal Commerce Protocol (UCP)
+- [UCP Print](https://github.com/devucpprint) for extending the Universal Commerce Protocol (UCP)
   with additional capabilities for the print industry
 
 ### Contributing
